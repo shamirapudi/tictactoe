@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/09/21 19:55:45.000.086,=C:\Users\Shami Rapudi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/10/18 01:01:07.000.717,=C:\Users\Shami Rapudi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/01 13:14:04.000.301,=C:\Users\Shami Rapudi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/29 23:00:39.000.468,=C:\Users\Shami Rapudi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/29 23:34:15.000.808,C:\Users\Shami Rapudi\Documents\Embarcadero\Studio\Projects\tic-tac-toe\Unit1.fmx=C:\Users\Shami Rapudi\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2021/01/29 23:34:15.000.808,C:\Users\Shami Rapudi\Documents\Embarcadero\Studio\Projects\tic-tac-toe\Unit1.pas=C:\Users\Shami Rapudi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/30 02:55:15.000.830,C:\Users\Shami Rapudi\Documents\Embarcadero\Studio\Projects\tic-tac-toe\Project1.dproj=C:\Users\Shami Rapudi\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android64="" Android=""/>
+	</ActiveMobileDevice>
+</BorlandProject>
